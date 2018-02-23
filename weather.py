@@ -6,7 +6,7 @@ import requests
 import json
 import sys
 
-api_key = "bd5e378503939ddaee76f12ad7a97608"
+api_key = "API-KEY"
 date_format = '%Y-%m-%d'
 now = str(datetime.now().strftime('%Y-%m-%d'))
 
